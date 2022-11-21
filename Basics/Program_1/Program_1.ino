@@ -1,4 +1,4 @@
-#define timeBetweenBlinks 1500
+#define timeBetweenBlinks 750
 
 void setup() {
   pinMode(13,OUTPUT);
